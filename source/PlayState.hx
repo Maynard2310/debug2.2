@@ -932,8 +932,9 @@ class PlayState extends MusicBeatState
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
 		}
                         
-                        case 'beachOne':}
+                        case 'beachOne':
 				gf.visible = false;
+                }
                 
 			case 'beachOneOcean':
 				gf.visible = false;
