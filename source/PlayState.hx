@@ -930,11 +930,11 @@ class PlayState extends MusicBeatState
 			case 'schoolEvil':
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
-		}
+		
                         
                         case 'beachOne':
 				gf.visible = false;
-                }
+                
                 
 			case 'beachOneOcean':
 				gf.visible = false;
